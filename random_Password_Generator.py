@@ -66,7 +66,8 @@ var = IntVar()
 var1 = IntVar()
 
 #Title of your GUI window 
-root.title("Random password Generator")
+root.title("Random password Generator " + "SUMITVARUN")
+
 
 
 # create label and entry to show
